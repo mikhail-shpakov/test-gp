@@ -1,0 +1,64 @@
+.Card-good {
+    display: flex;
+    justify-content: space-around;
+}
+/* .goods-field::after {
+    content: "";
+    display: block;
+    clear: both;
+  } */
+  
+  /* .goods-block {
+    width: 30%;
+    margin: 1%;
+    padding: 10px;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+  } */
+  .good-field{
+    display: flex;
+    justify-content: space-between;
+  }
+  .goods-block img {
+    max-width: 80%;
+    display: block;
+    margin: 20px auto;
+  }
+  .card{
+    padding: 20px 20px;
+    width: 20%;
+  }
+ .card-text{
+  font-size: 18px;
+  display: flex;
+  justify-content: center;    
+}
+.btn-add{
+  display: flex;
+  justify-content: center;
+}
+.add-to-cart {
+  padding: 10px 40px;
+  background-color:#FF9797;
+  border: none;
+  color: #2F2F2F;
+}
+.img-to-cart{
+  width: 25px;
+}
+.minus-good, .plus-good, .remove-good{
+  background-color: #FF9797;
+  border: none;
+  border-radius: 20px 10px;
+  padding: 10px;
+}
+.table-row-text{
+  width: 250px;
+}
+.table-row-td{
+  width: 120px;
+}
+.table-row-btn{
+  width: 50px;
+}

@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "PT Root UI - Light";
+  font-style: normal;
+  font-weight: 400;
+  /* Браузер сначала попробует найти шрифт локально */
+  src: local("PT Root UI"),
+       /* Если браузер не поддерживает woff2, загрузит woff */
+       url("../../fonts/Ptrootuilight.woff") format("woff");
+}
+#root {
+  font-family: "PT Root UI - Light";
+  /* max-width: 1024px; */
+  margin: 0 auto;
+  color: #2F2F2F  ;
+}
+.container{
+  height: 1500px;
+  /* background-color: #E5E5E5;; */
+}
+img {
+  width: 100%;
+}
+a:hover{
+  color:#FF9797;
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "articul": "28f4s",
+        "title": "Product Name",
+        "cost": 70,
+        "image": "https://cdn2.iconfinder.com/data/icons/summer-flat-11/272/summer-vacation-ice-cream-on-cone-food-1024.png"
+    },
+    {
+        "articul": "122qw84s",
+        "title": "Product Name",
+        "cost": 100,
+        "image": "https://cdn2.iconfinder.com/data/icons/summer-flat-11/272/summer-citrus-fruit-food-tropical-juice-orange-1024.png"
+    },
+    {
+        "articul": "28ssaq4s",
+        "title": "Product Name",
+        "cost": 130,
+        "image": "https://cdn2.iconfinder.com/data/icons/summer-flat-11/272/summer-vacation-beach-coconut-juice-drink-milk-1024.png"
+    },
+    {
+        "articul": "238lp4s",
+        "title": "Product Name",
+        "cost": 40,
+        "image": "https://cdn2.iconfinder.com/data/icons/summer-flat-11/272/summer-vacation-watermelon-food-fruit-water-melon-1024.png"
+    }
+]
